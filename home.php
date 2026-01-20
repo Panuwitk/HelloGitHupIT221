@@ -9,7 +9,7 @@
 			<td width="43" rowspan="2">&nbsp;</td>
 		</tr>
 		<tr>
-			<td width="1007" bgcolor="#FFFFFF">
+			<td width="1007" bgcolor="#FFF080">
 				<p>
 					อพาร์ทเมนต์ หรู สภาพแวดล้อมดี ปลอดภัย บริการทั้งห้องพัก รายวัน รายเดือน
 					เหมาะสำหรับ <br> นักศึกษา ใกล้แหล่งชุมชน และ ห้างสรรพสินค้า BigC , Lotus
@@ -24,7 +24,7 @@
 				<li><a href="home.php">หน้าแรกกกกกกก</li>
 				<li><a href="room.php">สิ่งอำนวยความสะดวก</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
-				<li><a href="contact.php">ติดต่อ</li>
+				<li><a href="contact.php">ติดต่อเรา</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
